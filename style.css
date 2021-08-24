@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #196d97;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 500px;
+    min-height: 200px;
+    padding: 30px 50px;
+    margin: 150px auto;
+    background-color: #fff;
+    text-align: center;
+}
+
+#dateInput{
+    margin: 30px 0px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#checkkk{
+    font-size: 22px;
+    background-color: transparent;
+    border: 1px solid #196d97;
+    color: #196d97;
+    padding: 7px 15px;
+    font-weight: 700;
+    width: 100%;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+#checkkk:hover{
+    background-color: #196d97;
+    color: #fff;
+}
+
+#ResultDisplay{
+    /* margin-top: 40px; */
+    font-size: 30px;
+}
